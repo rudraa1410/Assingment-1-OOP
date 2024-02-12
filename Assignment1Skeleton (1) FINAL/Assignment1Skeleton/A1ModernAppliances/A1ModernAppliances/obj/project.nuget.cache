@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "XEOLiz2Gd0TSBtLuaUFjmYsMBnI4ANxeV7C0tMGcSuVj4w11+cp35Nq4B3+UmDfL8+WP0HngEKUbefW4/WTJZA==",
+  "success": true,
+  "projectFilePath": "D:\\SAIT\\Sem-2\\Object-Oriented Programming 2 (CPRG-211-E)\\Assingment\\Assignment1Skeleton (1) FINAL\\Assignment1Skeleton\\A1ModernAppliances\\A1ModernAppliances\\ModernAppliances.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\solan\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.26\\microsoft.windowsdesktop.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\solan\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.26\\microsoft.netcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\solan\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.26\\microsoft.aspnetcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\solan\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.26\\microsoft.netcore.app.host.win-x64.6.0.26.nupkg.sha512"
+  ],
+  "logs": []
+}

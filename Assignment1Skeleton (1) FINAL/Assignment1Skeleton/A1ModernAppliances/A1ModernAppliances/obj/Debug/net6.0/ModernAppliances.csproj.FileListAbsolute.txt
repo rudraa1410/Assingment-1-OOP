@@ -1,0 +1,46 @@
+C:\Users\cpate\OneDrive - Southern Alberta Institute of Technology\Documents\Assignment1Skeleton (1) MIne\Assignment1Skeleton\A1ModernAppliances\A1ModernAppliances\bin\Debug\net6.0\ModernAppliances.exe
+C:\Users\cpate\OneDrive - Southern Alberta Institute of Technology\Documents\Assignment1Skeleton (1) MIne\Assignment1Skeleton\A1ModernAppliances\A1ModernAppliances\bin\Debug\net6.0\appliances.txt
+C:\Users\cpate\OneDrive - Southern Alberta Institute of Technology\Documents\Assignment1Skeleton (1) MIne\Assignment1Skeleton\A1ModernAppliances\A1ModernAppliances\bin\Debug\net6.0\ModernAppliances.deps.json
+C:\Users\cpate\OneDrive - Southern Alberta Institute of Technology\Documents\Assignment1Skeleton (1) MIne\Assignment1Skeleton\A1ModernAppliances\A1ModernAppliances\bin\Debug\net6.0\ModernAppliances.runtimeconfig.json
+C:\Users\cpate\OneDrive - Southern Alberta Institute of Technology\Documents\Assignment1Skeleton (1) MIne\Assignment1Skeleton\A1ModernAppliances\A1ModernAppliances\bin\Debug\net6.0\ModernAppliances.dll
+C:\Users\cpate\OneDrive - Southern Alberta Institute of Technology\Documents\Assignment1Skeleton (1) MIne\Assignment1Skeleton\A1ModernAppliances\A1ModernAppliances\bin\Debug\net6.0\ModernAppliances.pdb
+C:\Users\cpate\OneDrive - Southern Alberta Institute of Technology\Documents\Assignment1Skeleton (1) MIne\Assignment1Skeleton\A1ModernAppliances\A1ModernAppliances\obj\Debug\net6.0\ModernAppliances.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cpate\OneDrive - Southern Alberta Institute of Technology\Documents\Assignment1Skeleton (1) MIne\Assignment1Skeleton\A1ModernAppliances\A1ModernAppliances\obj\Debug\net6.0\ModernAppliances.AssemblyInfoInputs.cache
+C:\Users\cpate\OneDrive - Southern Alberta Institute of Technology\Documents\Assignment1Skeleton (1) MIne\Assignment1Skeleton\A1ModernAppliances\A1ModernAppliances\obj\Debug\net6.0\ModernAppliances.AssemblyInfo.cs
+C:\Users\cpate\OneDrive - Southern Alberta Institute of Technology\Documents\Assignment1Skeleton (1) MIne\Assignment1Skeleton\A1ModernAppliances\A1ModernAppliances\obj\Debug\net6.0\ModernAppliances.csproj.CoreCompileInputs.cache
+C:\Users\cpate\OneDrive - Southern Alberta Institute of Technology\Documents\Assignment1Skeleton (1) MIne\Assignment1Skeleton\A1ModernAppliances\A1ModernAppliances\obj\Debug\net6.0\ModernAppliances.dll
+C:\Users\cpate\OneDrive - Southern Alberta Institute of Technology\Documents\Assignment1Skeleton (1) MIne\Assignment1Skeleton\A1ModernAppliances\A1ModernAppliances\obj\Debug\net6.0\refint\ModernAppliances.dll
+C:\Users\cpate\OneDrive - Southern Alberta Institute of Technology\Documents\Assignment1Skeleton (1) MIne\Assignment1Skeleton\A1ModernAppliances\A1ModernAppliances\obj\Debug\net6.0\ModernAppliances.pdb
+C:\Users\cpate\OneDrive - Southern Alberta Institute of Technology\Documents\Assignment1Skeleton (1) MIne\Assignment1Skeleton\A1ModernAppliances\A1ModernAppliances\obj\Debug\net6.0\ModernAppliances.genruntimeconfig.cache
+C:\Users\cpate\OneDrive - Southern Alberta Institute of Technology\Documents\Assignment1Skeleton (1) MIne\Assignment1Skeleton\A1ModernAppliances\A1ModernAppliances\obj\Debug\net6.0\ref\ModernAppliances.dll
+C:\oop\ASSIGNMENT 1\Assignment1Skeleton (1) FINAL\Assignment1Skeleton\A1ModernAppliances\A1ModernAppliances\bin\Debug\net6.0\ModernAppliances.exe
+C:\oop\ASSIGNMENT 1\Assignment1Skeleton (1) FINAL\Assignment1Skeleton\A1ModernAppliances\A1ModernAppliances\bin\Debug\net6.0\appliances.txt
+C:\oop\ASSIGNMENT 1\Assignment1Skeleton (1) FINAL\Assignment1Skeleton\A1ModernAppliances\A1ModernAppliances\bin\Debug\net6.0\ModernAppliances.deps.json
+C:\oop\ASSIGNMENT 1\Assignment1Skeleton (1) FINAL\Assignment1Skeleton\A1ModernAppliances\A1ModernAppliances\bin\Debug\net6.0\ModernAppliances.runtimeconfig.json
+C:\oop\ASSIGNMENT 1\Assignment1Skeleton (1) FINAL\Assignment1Skeleton\A1ModernAppliances\A1ModernAppliances\bin\Debug\net6.0\ModernAppliances.dll
+C:\oop\ASSIGNMENT 1\Assignment1Skeleton (1) FINAL\Assignment1Skeleton\A1ModernAppliances\A1ModernAppliances\bin\Debug\net6.0\ModernAppliances.pdb
+C:\oop\ASSIGNMENT 1\Assignment1Skeleton (1) FINAL\Assignment1Skeleton\A1ModernAppliances\A1ModernAppliances\obj\Debug\net6.0\ModernAppliances.GeneratedMSBuildEditorConfig.editorconfig
+C:\oop\ASSIGNMENT 1\Assignment1Skeleton (1) FINAL\Assignment1Skeleton\A1ModernAppliances\A1ModernAppliances\obj\Debug\net6.0\ModernAppliances.AssemblyInfoInputs.cache
+C:\oop\ASSIGNMENT 1\Assignment1Skeleton (1) FINAL\Assignment1Skeleton\A1ModernAppliances\A1ModernAppliances\obj\Debug\net6.0\ModernAppliances.AssemblyInfo.cs
+C:\oop\ASSIGNMENT 1\Assignment1Skeleton (1) FINAL\Assignment1Skeleton\A1ModernAppliances\A1ModernAppliances\obj\Debug\net6.0\ModernAppliances.csproj.CoreCompileInputs.cache
+C:\oop\ASSIGNMENT 1\Assignment1Skeleton (1) FINAL\Assignment1Skeleton\A1ModernAppliances\A1ModernAppliances\obj\Debug\net6.0\ModernAppliances.dll
+C:\oop\ASSIGNMENT 1\Assignment1Skeleton (1) FINAL\Assignment1Skeleton\A1ModernAppliances\A1ModernAppliances\obj\Debug\net6.0\refint\ModernAppliances.dll
+C:\oop\ASSIGNMENT 1\Assignment1Skeleton (1) FINAL\Assignment1Skeleton\A1ModernAppliances\A1ModernAppliances\obj\Debug\net6.0\ModernAppliances.pdb
+C:\oop\ASSIGNMENT 1\Assignment1Skeleton (1) FINAL\Assignment1Skeleton\A1ModernAppliances\A1ModernAppliances\obj\Debug\net6.0\ModernAppliances.genruntimeconfig.cache
+C:\oop\ASSIGNMENT 1\Assignment1Skeleton (1) FINAL\Assignment1Skeleton\A1ModernAppliances\A1ModernAppliances\obj\Debug\net6.0\ref\ModernAppliances.dll
+D:\SAIT\Sem-2\Object-Oriented Programming 2 (CPRG-211-E)\Assingment\Assignment1Skeleton (1) FINAL\Assignment1Skeleton\A1ModernAppliances\A1ModernAppliances\bin\Debug\net6.0\ModernAppliances.exe
+D:\SAIT\Sem-2\Object-Oriented Programming 2 (CPRG-211-E)\Assingment\Assignment1Skeleton (1) FINAL\Assignment1Skeleton\A1ModernAppliances\A1ModernAppliances\bin\Debug\net6.0\appliances.txt
+D:\SAIT\Sem-2\Object-Oriented Programming 2 (CPRG-211-E)\Assingment\Assignment1Skeleton (1) FINAL\Assignment1Skeleton\A1ModernAppliances\A1ModernAppliances\bin\Debug\net6.0\ModernAppliances.deps.json
+D:\SAIT\Sem-2\Object-Oriented Programming 2 (CPRG-211-E)\Assingment\Assignment1Skeleton (1) FINAL\Assignment1Skeleton\A1ModernAppliances\A1ModernAppliances\bin\Debug\net6.0\ModernAppliances.runtimeconfig.json
+D:\SAIT\Sem-2\Object-Oriented Programming 2 (CPRG-211-E)\Assingment\Assignment1Skeleton (1) FINAL\Assignment1Skeleton\A1ModernAppliances\A1ModernAppliances\bin\Debug\net6.0\ModernAppliances.dll
+D:\SAIT\Sem-2\Object-Oriented Programming 2 (CPRG-211-E)\Assingment\Assignment1Skeleton (1) FINAL\Assignment1Skeleton\A1ModernAppliances\A1ModernAppliances\bin\Debug\net6.0\ModernAppliances.pdb
+D:\SAIT\Sem-2\Object-Oriented Programming 2 (CPRG-211-E)\Assingment\Assignment1Skeleton (1) FINAL\Assignment1Skeleton\A1ModernAppliances\A1ModernAppliances\obj\Debug\net6.0\ModernAppliances.GeneratedMSBuildEditorConfig.editorconfig
+D:\SAIT\Sem-2\Object-Oriented Programming 2 (CPRG-211-E)\Assingment\Assignment1Skeleton (1) FINAL\Assignment1Skeleton\A1ModernAppliances\A1ModernAppliances\obj\Debug\net6.0\ModernAppliances.AssemblyInfoInputs.cache
+D:\SAIT\Sem-2\Object-Oriented Programming 2 (CPRG-211-E)\Assingment\Assignment1Skeleton (1) FINAL\Assignment1Skeleton\A1ModernAppliances\A1ModernAppliances\obj\Debug\net6.0\ModernAppliances.AssemblyInfo.cs
+D:\SAIT\Sem-2\Object-Oriented Programming 2 (CPRG-211-E)\Assingment\Assignment1Skeleton (1) FINAL\Assignment1Skeleton\A1ModernAppliances\A1ModernAppliances\obj\Debug\net6.0\ModernAppliances.csproj.CoreCompileInputs.cache
+D:\SAIT\Sem-2\Object-Oriented Programming 2 (CPRG-211-E)\Assingment\Assignment1Skeleton (1) FINAL\Assignment1Skeleton\A1ModernAppliances\A1ModernAppliances\obj\Debug\net6.0\ModernAppliances.sourcelink.json
+D:\SAIT\Sem-2\Object-Oriented Programming 2 (CPRG-211-E)\Assingment\Assignment1Skeleton (1) FINAL\Assignment1Skeleton\A1ModernAppliances\A1ModernAppliances\obj\Debug\net6.0\ModernAppliances.dll
+D:\SAIT\Sem-2\Object-Oriented Programming 2 (CPRG-211-E)\Assingment\Assignment1Skeleton (1) FINAL\Assignment1Skeleton\A1ModernAppliances\A1ModernAppliances\obj\Debug\net6.0\refint\ModernAppliances.dll
+D:\SAIT\Sem-2\Object-Oriented Programming 2 (CPRG-211-E)\Assingment\Assignment1Skeleton (1) FINAL\Assignment1Skeleton\A1ModernAppliances\A1ModernAppliances\obj\Debug\net6.0\ModernAppliances.pdb
+D:\SAIT\Sem-2\Object-Oriented Programming 2 (CPRG-211-E)\Assingment\Assignment1Skeleton (1) FINAL\Assignment1Skeleton\A1ModernAppliances\A1ModernAppliances\obj\Debug\net6.0\ModernAppliances.genruntimeconfig.cache
+D:\SAIT\Sem-2\Object-Oriented Programming 2 (CPRG-211-E)\Assingment\Assignment1Skeleton (1) FINAL\Assignment1Skeleton\A1ModernAppliances\A1ModernAppliances\obj\Debug\net6.0\ref\ModernAppliances.dll
